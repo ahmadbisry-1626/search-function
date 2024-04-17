@@ -24,7 +24,7 @@ const TableData = () => {
               </TableRow>
             </TableHeader>
             {listData.sort((a, b) => a.id - b.id).map((data) => (
-              <TableBody>
+              <TableBody key={data.name}>
                 <TableRow className='max-md:text-[12px]'>
                   <TableCell className="font-medium">{data.id}</TableCell>
                   <TableCell>{data.name}</TableCell>

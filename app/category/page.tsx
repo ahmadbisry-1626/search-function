@@ -1,6 +1,6 @@
 import Header from '@/components/Header'
 import SearchInput from '@/components/Home/SearchInput'
-import TableContent from '@/components/TableContent'
+import TableContent from '@/components/Home/TableContent'
 import React from 'react'
 
 const page = () => {
@@ -12,7 +12,6 @@ const page = () => {
         <div className="flex flex-col gap-4">
           <SearchInput />
 
-          <TableContent />
         </div>
 
       </div>

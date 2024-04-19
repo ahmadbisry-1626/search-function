@@ -3,7 +3,206 @@ import { BsGithub } from 'react-icons/bs';
 import { FiFilter } from 'react-icons/fi';
 
 export const listData = [
-    { id: 83, name: "Esteban", bio: "Recusandae rem et unde natus ut reprehenderit aspernatur voluptate." }, { id: 33, name: "Frederick", bio: "Eveniet est dolores cum debitis exercitationem numquam similique." }, { id: 60, name: "Bernhard", bio: "Porro ipsam omnis commodi accusamus debitis ut deleniti sint." }, { id: 34, name: "Davonte", bio: "Fuga magnam exercitationem." }, { id: 92, name: "Abner", bio: "Nisi tenetur sint beatae possimus eaque quam ab illum sit." }, { id: 99, name: "Luciano", bio: "Inventore id labore quasi quis et ut quibusdam." }, { id: 30, name: "Raegan", bio: "Laborum sunt voluptate aliquid sed repellat odit." }, { id: 18, name: "Sedrick", bio: "Repellat quos officia ut impedit." }, { id: 99, name: "Skyla", bio: "Omnis corporis et sint recusandae ut." }, { id: 43, name: "Estel", bio: "Id repudiandae minus rerum neque fuga quo." }, { id: 42, name: "Constantin", bio: "Qui recusandae at voluptatum." }, { id: 57, name: "Reyes", bio: "Enim suscipit incidunt placeat est officia sed ut molestias tempore." }, { id: 22, name: "Verner", bio: "Ad libero aliquid odit modi aperiam eius sapiente numquam." }, { id: 80, name: "Marianne", bio: "Recusandae blanditiis est iusto reiciendis voluptas debitis." }, { id: 18, name: "Ophelia", bio: "Doloribus quam commodi ad est." }, { id: 88, name: "Hailee", bio: "Autem eum temporibus consequuntur tempora dolores amet mollitia." }, { id: 86, name: "Chad", bio: "Aut dolorem vero sed dolorem." }, { id: 12, name: "Catherine", bio: "Similique possimus enim sed molestiae cumque necessitatibus." }, { id: 28, name: "Coleman", bio: "Voluptate vel laborum magnam et ullam laudantium autem voluptatum fuga." }, { id: 75, name: "Betty", bio: "Natus reiciendis nostrum iste omnis repellendus minima omnis dolorum nobis." }, { id: 11, name: "Ava", bio: "Veniam autem voluptatibus minus et excepturi." }, { id: 51, name: "Lilly", bio: "Beatae consequatur maxime alias iusto nihil ex." }, { id: 85, name: "Stewart", bio: "In omnis saepe doloremque odio dignissimos eum." }, { id: 45, name: "Bailee", bio: "Soluta modi omnis autem aut porro voluptatum doloribus repellendus molestiae." }, { id: 75, name: "Brisa", bio: "Est repellat dolore aut ducimus sapiente consectetur." }, { id: 25, name: "Alphonso", bio: "Ad totam in." }, { id: 26, name: "Ramon", bio: "Eos nihil a iusto fugiat dolorum sint debitis fuga accusamus." }, { id: 56, name: "Sterling", bio: "Dolor ad nam consequatur." }, { id: 45, name: "Ryley", bio: "Quae fugit odio excepturi ratione perferendis ut tenetur sit." }, { id: 10, name: "Frederik", bio: "Ut excepturi velit atque quia ut et temporibus non." }, { id: 76, name: "Chaz", bio: "Dignissimos dolore totam et quo qui odio repudiandae odit facilis." }, { id: 1, name: "Frederick", bio: "Autem voluptatem atque perferendis perspiciatis ut consectetur et commodi nisi." }, { id: 49, name: "Isabelle", bio: "Laborum enim quia doloremque debitis eveniet ex vel dolore." }, { id: 46, name: "Marlene", bio: "Omnis aut nemo nostrum quam voluptatem." }, { id: 54, name: "Lew", bio: "Aut voluptatibus impedit nisi a et eligendi est." }, { id: 9, name: "Gregory", bio: "In qui ex sit animi enim." }, { id: 85, name: "Alexie", bio: "Tenetur quidem et minima atque totam." }, { id: 32, name: "Joanny", bio: "Voluptate maiores eveniet eum." }, { id: 68, name: "Juvenal", bio: "Aut nesciunt aut occaecati est occaecati placeat quis incidunt quod." }, { id: 86, name: "Gloria", bio: "Sit et repellat ad exercitationem quod iusto voluptatem nesciunt." }, { id: 39, name: "Nicholas", bio: "Aut quidem ullam iste est pariatur velit velit." }, { id: 31, name: "Cara", bio: "Eum ab adipisci quo omnis consequuntur omnis omnis." }, { id: 78, name: "Lori", bio: "Molestias ut sit error est dolore quasi." }, { id: 19, name: "Antonetta", bio: "Rerum incidunt necessitatibus." }, { id: 22, name: "Larue", bio: "Magnam debitis accusantium minima veritatis." }, { id: 39, name: "Sister", bio: "Nihil et ut rerum cumque rerum." }, { id: 55, name: "Louvenia", bio: "Rerum odit porro quo." }, { id: 41, name: "Braeden", bio: "Soluta omnis qui voluptatem veritatis similique doloribus." }, { id: 84, name: "Muhammad", bio: "Voluptate quis nobis id porro optio." }, { id: 60, name: "Trey", bio: "Dolor qui fuga voluptatem voluptatem corrupti expedita sunt alias voluptas." }, { id: 4, name: "Zane", bio: "Molestias aut aut deserunt necessitatibus et ut culpa cumque." }, { id: 36, name: "Gina", bio: "Aliquam adipisci quaerat consequatur iste." }, { id: 65, name: "Glenda", bio: "Omnis sequi error ipsa." }, { id: 85, name: "Trever", bio: "Quos asperiores sunt accusantium fugit sunt et eaque reiciendis." }, { id: 73, name: "Ari", bio: "Ducimus et magnam nisi." }, { id: 61, name: "Vern", bio: "Exercitationem architecto ea nisi exercitationem quo." }, { id: 30, name: "Selmer", bio: "Molestias ut voluptatem explicabo est sed quis reiciendis." }, { id: 77, name: "Sebastian", bio: "Quidem magnam officia aut quae officiis quia aliquid ipsum perferendis." }, { id: 75, name: "Kendrick", bio: "Alias harum suscipit corporis nulla inventore quibusdam expedita vero et." }, { id: 37, name: "Marlin", bio: "Corrupti fuga aut." }, { id: 23, name: "Clint", bio: "Adipisci eaque possimus quae ut mollitia repellendus aspernatur inventore." }, { id: 94, name: "Ofelia", bio: "Autem aliquid et praesentium rerum rerum molestiae tempore nostrum iusto." }, { id: 0, name: "Westley", bio: "Nulla aut eligendi sit quaerat et sunt ipsum sequi laborum." }, { id: 13, name: "Richie", bio: "Iure eum labore id distinctio." }, { id: 35, name: "Therese", bio: "Porro quia facere cum odio." }, { id: 10, name: "Adriana", bio: "Nemo atque rerum aperiam." }, { id: 67, name: "Cordelia", bio: "Et illo sunt voluptatem aperiam incidunt." }, { id: 86, name: "Hardy", bio: "Repellendus consequuntur voluptatem in ex at." }, { id: 79, name: "Deontae", bio: "Autem quia est praesentium." }, { id: 2, name: "Emmet", bio: "Asperiores velit facilis iusto mollitia facilis illum." }, { id: 66, name: "Karen", bio: "Voluptatem omnis omnis itaque deleniti." }, { id: 31, name: "Jaime", bio: "Sit non nisi sit dolor voluptatem vitae perferendis nulla accusantium." }, { id: 66, name: "Sasha", bio: "Ut et aliquam deserunt." }, { id: 100, name: "Clemens", bio: "Officia commodi blanditiis consequatur et eos ea soluta qui." }, { id: 25, name: "Twila", bio: "Tempora odio et et provident dolores." }, { id: 83, name: "Keshawn", bio: "Ut illum dolor est eveniet velit." }, { id: 1, name: "Piper", bio: "Inventore est ex expedita quia hic praesentium adipisci." }, { id: 10, name: "Finn", bio: "Placeat praesentium non sit eligendi molestiae aspernatur." }, { id: 68, name: "Kurt", bio: "Delectus sed illo." }, { id: 37, name: "Therese", bio: "Dolorum excepturi at ad laborum enim maiores voluptas magni ea." }, { id: 87, name: "Krystel", bio: "Est repellendus et ut expedita." }, { id: 72, name: "Sandrine", bio: "Eveniet excepturi at dolor autem nemo nesciunt explicabo et eaque." }, { id: 21, name: "Violet", bio: "Dolores velit dolorem dolores et." }, { id: 51, name: "Karley", bio: "Optio quos vitae." }, { id: 41, name: "Kay", bio: "Quod voluptates et officiis ex omnis autem perferendis." }, { id: 82, name: "Zena", bio: "Unde omnis et qui unde." }, { id: 67, name: "Branson", bio: "Esse rem sed eveniet eum et fugiat." }, { id: 13, name: "Angel", bio: "Et labore ipsum non sapiente ut sed commodi." }, { id: 68, name: "Lucas", bio: "Sequi aut aut eum ratione." }, { id: 61, name: "Alysha", bio: "Architecto rem sapiente ad libero sunt ea at accusamus." }, { id: 82, name: "Eladio", bio: "Est cumque veritatis voluptatum et." }, { id: 67, name: "Shannon", bio: "Similique animi nulla beatae voluptate neque mollitia harum aliquid." }, { id: 6, name: "Chadrick", bio: "Veniam laboriosam aliquam et occaecati nobis." }, { id: 54, name: "Vanessa", bio: "Quo quae dolor natus et quos inventore omnis est placeat." }, { id: 47, name: "Geovanny", bio: "Voluptatem ratione aut earum qui delectus quod velit error ipsa." }, { id: 43, name: "Alexandre", bio: "Quam commodi officia." }, { id: 93, name: "Omer", bio: "Molestiae ipsa placeat sed ut culpa eligendi reprehenderit." }, { id: 66, name: "Kenna", bio: "Aspernatur quam vero rem totam esse et." }, { id: 23, name: "Adela", bio: "Harum qui et cumque exercitationem numquam reiciendis debitis." }, { id: 42, name: "Glen", bio: "Inventore tempora ipsum totam." }
+    {
+        id: 1,
+        name: 'Ahmad Bisry',
+        bio: 'lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.'
+    },
+    {
+        id: 2,
+        name: 'Sukmayadi',
+        bio: 'lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.'
+    },
+    {
+        id: 3,
+        name: 'Timothy Ronald',
+        bio: 'lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.'
+    },
+    {
+        id: 4,
+        name: 'Putri Rengganis',
+        bio: 'lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.'
+    },
+    {
+        id: 5,
+        name: 'Kunto purnama',
+        bio: 'lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.'
+    },
+    {
+        id: 6,
+        name: 'Ahmad Bahar',
+        bio: 'lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.'
+    },
+    {
+        id: 7,
+        name: 'Reza Fauzi',
+        bio: 'lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.'
+    },
+    {
+        id: 8,
+        name: 'Aldi Pratama',
+        bio: 'lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.'
+    },
+    {
+        id: 9,
+        name: 'Kusuma Wijaya',
+        bio: 'lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.'
+    },
+    {
+        id: 10,
+        name: 'Andi Saputra',
+        bio: 'lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.'
+    },
+    {
+        id: 11,
+        name: 'Ujang Suryana',
+        bio: 'lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.'
+    },
+    {
+        id: 12,
+        name: 'Asep Suryana',
+        bio: 'lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.'
+    },
+    {
+        id: 13,
+        name: 'Yatno Raharja',
+        bio: 'lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.'
+    },
+    {
+        id: 14,
+        name: 'Yayan Baharudin',
+        bio: 'lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.'
+    },
+    {
+        id: 15,
+        name: 'Abimana Aryasatya',
+        bio: 'lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.'
+    },
+    {
+        id: 16,
+        name: 'Rifki Mulya',
+        bio: 'lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.'
+    },
+    {
+        id: 17,
+        name: 'Restu Pratama',
+        bio: 'lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.'
+    },
+    {
+        id: 18,
+        name: 'Revan Pratama',
+        bio: 'lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.'
+    },
+    {
+        id: 19,
+        name: 'Felicia Cahya',
+        bio: 'lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.'
+    },
+    {
+        id: 20,
+        name: 'Cantika Putri',
+        bio: 'lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.'
+    },
+    {
+        id: 21,
+        name: 'Vira Retno',
+        bio: 'lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.'
+    },
+    {
+        id: 22,
+        name: 'Anggi Putri Lestari',
+        bio: 'lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.'
+    },
+    {
+        id: 23,
+        name: 'Laras Dian',
+        bio: 'lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.'
+    },
+    {
+        id: 24,
+        name: 'Angelina Putri',
+        bio: 'lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.'
+    },
+    {
+        id: 25,
+        name: 'Sarah Pujianti',
+        bio: 'lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.'
+    },
+    {
+        id: 26,
+        name: 'Meruchan',
+        bio: 'lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.'
+    },
+    {
+        id: 27,
+        name: 'Maria Ozawa',
+        bio: 'lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.'
+    },
+    {
+        id: 28,
+        name: 'Chika Jessica',
+        bio: 'lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.'
+    },
+    {
+        id: 29,
+        name: 'Saeko Busujima',
+        bio: 'lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.'
+    },
+    {
+        id: 30,
+        name: 'Karen Fukuhara',
+        bio: 'lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.'
+    },
+    {
+        id: 31,
+        name: 'Meguri Fuuka',
+        bio: 'lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.'
+    },
+    {
+        id: 32,
+        name: 'Meguri Fujiura',
+        bio: 'lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.'
+    },
+    {
+        id: 33,
+        name: 'Karen Kaede',
+        bio: 'lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.'
+    },
+    {
+        id: 34,
+        name: 'Senju Ayuha',
+        bio: 'lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.'
+    },
+    {
+        id: 35,
+        name: 'Kenjiro Tsuda',
+        bio: 'lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.'
+    },
+    {
+        id: 36,
+        name: 'Yui Hatano',
+        bio: 'lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.'
+    },
+    {
+        id: 37,
+        name: 'Asuka Kirara',
+        bio: 'lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.'
+    },
+    {
+        id: 38,
+        name: 'Windows Basudara',
+        bio: 'lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.'
+    },
+    {
+        id: 39,
+        name: 'Kobra Kanaeru',
+        bio: 'lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.'
+    },
+    {
+        id: 40,
+        name: 'Puki Pujianti',
+        bio: 'lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.'
+    },
 ]
 
 export const navbar = [
@@ -36,3 +235,4 @@ export const sosmed = [
         icon: BiLogoInstagramAlt
     },
 ]
+
